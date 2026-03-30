@@ -6,7 +6,7 @@
 - **PHP**
 - **MySQL**
 - **HTML**
-- **XAMPP**
+- **XAMPPP**
 
 ## Features
 - **Insert Employee Data**
@@ -40,8 +40,6 @@
 ### Display Employees
 ![Show](images/show.png)
 
-### Register Employee
+### Display Employees
 ![Register](images/register.png)
-![Email](images/email.png)
-![Password](images/password.png)
 
