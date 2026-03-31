@@ -37,9 +37,9 @@
 ### Delete Employee
 ![Delete](/RITIK_HW2/images/delete.png)
 
-### Display Employees
+### Display Employees Table
 ![Show](/RITIK_HW2/images/show.png)
 
-### Display Employees
+### Display Register Employees
 ![Register](/RITIK_HW2/images/register.png)
 
