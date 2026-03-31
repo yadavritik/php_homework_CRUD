@@ -29,7 +29,7 @@
 # Screenshots
 
 ### Insert Employee
-![Insert](images/insert.png)
+![Insert](/RITIK_HW2/images/insert.png)
 
 ### Update Employee Salary
 ![Update](images/update.png)
