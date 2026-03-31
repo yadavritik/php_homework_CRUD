@@ -32,14 +32,14 @@
 ![Insert](/RITIK_HW2/images/insert.png)
 
 ### Update Employee Salary
-![Update](images/update.png)
+![Update](/RITIK_HW2/images/update.png)
 
 ### Delete Employee
-![Delete](images/delete.png)
+![Delete](/RITIK_HW2/images/delete.png)
 
 ### Display Employees
-![Show](images/show.png)
+![Show](/RITIK_HW2/images/show.png)
 
 ### Display Employees
-![Register](images/register.png)
+![Register](/RITIK_HW2/images/register.png)
 
